@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "799e8d062c00a8745ec8eadb7bc687a3",
+  "assets/AssetManifest.json": "cc004fef84c5cb27ae7278ff54150e8e",
 "assets/assets/fonts/Cairo-Black.ttf": "c3da5664903bac89a1e5a6f38e47a778",
 "assets/assets/fonts/Cairo-Bold.ttf": "ef55322bc2031017175022b779940cb0",
 "assets/assets/fonts/Cairo-ExtraBold.ttf": "0645b8a99ffdc54a258b3eb7f6d160b9",
@@ -60,6 +60,7 @@ const RESOURCES = {
 "assets/assets/icons/User.svg": "737d49c1953f8098f618d523b45e5657",
 "assets/assets/icons/wallet.png": "866f4e509e9a95fcb117c1353fc4f408",
 "assets/assets/icons/wallet.svg": "d30c271b2a609cebefa76a1fc749d0f4",
+"assets/assets/images/drawer_background.jpg": "e8b538b9036921fd0b81b443f42ef286",
 "assets/assets/images/group_chat.gif": "282f811789fa307f3bb74a5ca9a97c7c",
 "assets/assets/images/group_chat_blue.gif": "8941ec83120281949b43d525f33a6595",
 "assets/assets/images/mobile_encryption.gif": "98ba46c8b568bc3426f03ad4f47a0e86",
@@ -79,9 +80,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "f7489b0ef45301949cdee228b17d78af",
-"/": "f7489b0ef45301949cdee228b17d78af",
-"main.dart.js": "4665b448cda3e1ab4579eafb8d071af1",
+"index.html": "65b15c5efbb6680708ae3ea1fcb195d0",
+"/": "65b15c5efbb6680708ae3ea1fcb195d0",
+"main.dart.js": "094b0e5b47fdf8734972e5772bb40ad8",
 "manifest.json": "1b221ef5a813a9b3cca2e318e57708b0",
 "version.json": "34d0cc0496223bfce47984f8ef96cac2"
 };
